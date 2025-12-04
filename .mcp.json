@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ppt": {
+      "command": "python",
+      "args": ["/Users/weili/Downloads/my-project/Office-PowerPoint-MCP-Server/ppt_mcp_server.py"],
+      "env": {}
+    }
+  }
+}
